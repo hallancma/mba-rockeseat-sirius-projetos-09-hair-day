@@ -1,12 +1,12 @@
-# Projeto Agendamentos
+# Hair Day - Projeto de Agendamentos
 
-Projeto Agendamentos é um aplicativo web que exibe agendamentos diários organizados por período (manhã, tarde e noite).
+Hair Day - Projeto Agendamentos é um aplicativo web que exibe agendamentos diários organizados por período (manhã, tarde e noite).
 
 ![Screenshot do Projeto](src/assets/hairday.png)
 
 ## Visão Geral
 
-O Projeto Agendamentos é uma aplicação moderna e responsiva que exibe, de forma clara e visualmente agradável, os horários agendados de acordo com o período do dia. Os dados são processados e exibidos dinamicamente usando JavaScript e a biblioteca `dayjs`, com uma interface amigável baseada em HTML5 e CSS3.
+O Hair Day - Projeto Agendamentos é uma aplicação moderna e responsiva que exibe, de forma clara e visualmente agradável, os horários agendados de acordo com o período do dia. Os dados são processados e exibidos dinamicamente usando JavaScript e a biblioteca `dayjs`, com uma interface amigável baseada em HTML5 e CSS3.
 
 ## Tecnologias Utilizadas
 
