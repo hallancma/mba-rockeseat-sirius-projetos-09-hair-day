@@ -51,5 +51,6 @@ O Hair Day - Projeto Agendamentos é uma aplicação moderna e responsiva que ex
 
 ## Ver Projeto
 
-Link do projeto publicado aqui:  
-https://hairday.hallanchristian.com.br
+Para ver o projeto em funcionamento, você pode visitar o link abaixo:
+
+[Ver Projeto](https://hairday.hallanchristian.com.br/)
