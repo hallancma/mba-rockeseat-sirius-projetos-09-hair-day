@@ -51,5 +51,5 @@ O Projeto Agendamentos é uma aplicação moderna e responsiva que exibe, de for
 
 ## Ver Projeto
 
-Se publicado, adicione o link aqui:  
+Link do projeto publicado aqui:  
 https://hairday.hallanchristian.com.br
